@@ -29,7 +29,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "78586234178482",
+      "SoundId": "103765969575860",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -57,7 +57,7 @@
   ],
   "Aura Farming": [
     {
-      "SoundId": "112216621239966",
+      "SoundId": "100615434023295",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -141,14 +141,14 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "72254091159015",
+      "SoundId": "119382970264111",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
   ],
   "Love for you": [
     {
-      "SoundId": "126103342368277",
+      "SoundId": "86589229564431",
       "LayerIndex": "1",
       "FullFileName": "Love_Main.ogg"
     }
@@ -190,7 +190,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "82168719770886",
+      "SoundId": "123810765536960",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
