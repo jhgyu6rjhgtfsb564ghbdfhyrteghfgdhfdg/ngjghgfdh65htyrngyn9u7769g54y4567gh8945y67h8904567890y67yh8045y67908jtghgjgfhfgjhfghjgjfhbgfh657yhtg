@@ -106,7 +106,7 @@
   ],
   "Acelerada": [
     {
-      "SoundId": "85787588067970",
+      "SoundId": "95891570519315",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -183,14 +183,14 @@
   ],
   "Golden": [
     {
-      "SoundId": "107776473823653",
+      "SoundId": "83676360988248",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "99686070028381",
+      "SoundId": "101318278511220",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
