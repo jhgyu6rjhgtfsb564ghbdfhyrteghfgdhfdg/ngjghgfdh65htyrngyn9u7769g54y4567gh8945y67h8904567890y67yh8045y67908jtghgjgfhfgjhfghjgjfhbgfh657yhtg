@@ -50,7 +50,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "71543122385523",
+      "SoundId": "75205737192175",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -78,7 +78,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "73675791437608",
+      "SoundId": "137084503721836",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -141,7 +141,7 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "74396971566755",
+      "SoundId": "91831239899383",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
@@ -183,14 +183,14 @@
   ],
   "Golden": [
     {
-      "SoundId": "75769700619775",
+      "SoundId": "73772009774709",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "131964766192622",
+      "SoundId": "85061793590326",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
