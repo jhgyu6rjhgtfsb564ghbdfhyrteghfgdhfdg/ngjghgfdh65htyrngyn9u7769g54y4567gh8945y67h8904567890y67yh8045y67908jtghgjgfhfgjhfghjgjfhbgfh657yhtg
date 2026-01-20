@@ -29,7 +29,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "71685146096803",
+      "SoundId": "132267864621410",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -50,14 +50,14 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "75205737192175",
+      "SoundId": "130410509219929",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
   ],
   "Aura Farming": [
     {
-      "SoundId": "70591747822298",
+      "SoundId": "109617008859049",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
