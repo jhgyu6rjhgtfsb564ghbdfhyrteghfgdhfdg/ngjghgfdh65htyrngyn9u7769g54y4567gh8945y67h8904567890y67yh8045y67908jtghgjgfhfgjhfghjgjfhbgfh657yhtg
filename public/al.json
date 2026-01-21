@@ -8,7 +8,7 @@
   ],
   "Chanel": [
     {
-      "SoundId": "137908179391008",
+      "SoundId": "126140606666831",
       "LayerIndex": "1",
       "FullFileName": "Chanel.ogg"
     }
@@ -22,14 +22,14 @@
   ],
   "Dia Delicia": [
     {
-      "SoundId": "118790119968992",
+      "SoundId": "135285173572825",
       "LayerIndex": "1",
       "FullFileName": "Dia.ogg"
     }
   ],
   "Destroy me": [
     {
-      "SoundId": "132267864621410",
+      "SoundId": "131724676973571",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -50,7 +50,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "130410509219929",
+      "SoundId": "126049289139112",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -64,7 +64,7 @@
   ],
   "AY MI GATITO": [
     {
-      "SoundId": "79420848852459",
+      "SoundId": "106390393417818",
       "LayerIndex": "1",
       "FullFileName": "Gatito.ogg"
     }
@@ -78,21 +78,21 @@
   ],
   "Maps": [
     {
-      "SoundId": "130875522904778",
+      "SoundId": "135983379423276",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
   ],
   "Mystical Magical": [
     {
-      "SoundId": "125758048572439",
+      "SoundId": "109696195282986",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
   ],
   "Ribs": [
     {
-      "SoundId": "120838791215790",
+      "SoundId": "114035628606373",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
@@ -127,7 +127,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "70494262002405",
+      "SoundId": "102062542354556",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
@@ -141,7 +141,7 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "98529434182671",
+      "SoundId": "74704969787747",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
