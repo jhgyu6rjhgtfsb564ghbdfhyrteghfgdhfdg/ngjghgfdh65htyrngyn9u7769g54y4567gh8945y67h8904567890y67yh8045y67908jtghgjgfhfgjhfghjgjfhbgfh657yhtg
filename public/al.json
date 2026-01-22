@@ -29,7 +29,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "114787130515867",
+      "SoundId": "75672821366783",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -50,7 +50,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "126049289139112",
+      "SoundId": "117532619646569",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -64,7 +64,7 @@
   ],
   "AY MI GATITO": [
     {
-      "SoundId": "106390393417818",
+      "SoundId": "137460480756404",
       "LayerIndex": "1",
       "FullFileName": "Gatito.ogg"
     }
@@ -78,7 +78,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "72323072008597",
+      "SoundId": "106016946009519",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
