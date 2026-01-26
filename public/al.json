@@ -85,7 +85,7 @@
   ],
   "Mystical Magical": [
     {
-      "SoundId": "72423165466505",
+      "SoundId": "119489619484975",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -127,7 +127,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "100687639067050",
+      "SoundId": "113413988784564",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
@@ -155,7 +155,7 @@
   ],
   "Finally 18": [
     {
-      "SoundId": "75386438714120",
+      "SoundId": "77289543883601",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "110048593781067",
+      "SoundId": "111924104188951",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
