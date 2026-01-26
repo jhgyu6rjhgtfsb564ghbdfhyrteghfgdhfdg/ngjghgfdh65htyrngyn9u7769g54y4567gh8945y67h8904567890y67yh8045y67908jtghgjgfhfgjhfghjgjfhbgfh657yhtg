@@ -29,7 +29,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "124967288869575",
+      "SoundId": "126794726394524",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -106,7 +106,7 @@
   ],
   "Acelerada": [
     {
-      "SoundId": "81052338831249",
+      "SoundId": "101274398834609",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -148,7 +148,7 @@
   ],
   "Love for you": [
     {
-      "SoundId": "89299201565388",
+      "SoundId": "139646075662360",
       "LayerIndex": "1",
       "FullFileName": "Love_Main.ogg"
     }
@@ -190,7 +190,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "125225936219304",
+      "SoundId": "97532440602351",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
