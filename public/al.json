@@ -141,7 +141,7 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "109376419485182",
+      "SoundId": "86942440522686",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
@@ -169,7 +169,7 @@
   ],
   "Flower": [
     {
-      "SoundId": "90691782405741",
+      "SoundId": "86312534832208",
       "LayerIndex": "1",
       "FullFileName": "Flower_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "111924104188951",
+      "SoundId": "112910680207216",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
