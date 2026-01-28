@@ -8,7 +8,7 @@
   ],
   "Chanel": [
     {
-      "SoundId": "87226729559187",
+      "SoundId": "90069023174713",
       "LayerIndex": "1",
       "FullFileName": "Chanel.ogg"
     }
@@ -29,7 +29,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "94922217603646",
+      "SoundId": "80182464862601",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -50,14 +50,14 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "103141500475189",
+      "SoundId": "114358443598432",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
   ],
   "Aura Farming": [
     {
-      "SoundId": "135923134996109",
+      "SoundId": "133114489035701",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -78,7 +78,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "110968093143671",
+      "SoundId": "74770018895910",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -92,14 +92,14 @@
   ],
   "Ribs": [
     {
-      "SoundId": "116853379137255",
+      "SoundId": "139193700896643",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
   ],
   "Tuesday": [
     {
-      "SoundId": "106906330536713",
+      "SoundId": "109255396945452",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
@@ -141,7 +141,7 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "86942440522686",
+      "SoundId": "92778459758425",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
@@ -183,14 +183,14 @@
   ],
   "Golden": [
     {
-      "SoundId": "112910680207216",
+      "SoundId": "93285893689649",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "129109664139590",
+      "SoundId": "106377569264434",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
