@@ -29,7 +29,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "85426244961926",
+      "SoundId": "124548951355346",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -57,7 +57,7 @@
   ],
   "Aura Farming": [
     {
-      "SoundId": "82473497568353",
+      "SoundId": "88158124880747",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -78,14 +78,14 @@
   ],
   "Maps": [
     {
-      "SoundId": "91586738048573",
+      "SoundId": "77206237769277",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
   ],
   "Mystical Magical": [
     {
-      "SoundId": "131174985685885",
+      "SoundId": "127531035065682",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -155,7 +155,7 @@
   ],
   "Like A Love Song": [
     {
-      "SoundId": "126682149656352",
+      "SoundId": "119244860167560",
       "LayerIndex": "1",
       "FullFileName": "Song_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "101596737212207",
+      "SoundId": "113661773980671",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
