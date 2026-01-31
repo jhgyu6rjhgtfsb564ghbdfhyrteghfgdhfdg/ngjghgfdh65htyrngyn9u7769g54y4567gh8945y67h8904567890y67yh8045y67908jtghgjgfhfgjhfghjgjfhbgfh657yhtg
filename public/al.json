@@ -57,7 +57,7 @@
   ],
   "Aura Farming": [
     {
-      "SoundId": "88158124880747",
+      "SoundId": "137792411573320",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -92,7 +92,7 @@
   ],
   "Ribs": [
     {
-      "SoundId": "70869072537566",
+      "SoundId": "139799338914826",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
@@ -127,7 +127,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "103221992794455",
+      "SoundId": "90433490577813",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
