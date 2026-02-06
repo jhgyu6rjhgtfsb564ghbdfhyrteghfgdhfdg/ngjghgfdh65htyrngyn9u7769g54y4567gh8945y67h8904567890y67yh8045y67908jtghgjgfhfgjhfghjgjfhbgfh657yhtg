@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "104695399850481",
+      "SoundId": "96905383937136",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -106,14 +106,14 @@
   ],
   "Tuesday": [
     {
-      "SoundId": "106863721826239",
+      "SoundId": "103415114417969",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
   ],
   "Acelerada": [
     {
-      "SoundId": "83665913020666",
+      "SoundId": "77490075629306",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -190,7 +190,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "113061015484511",
+      "SoundId": "128673383017536",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
