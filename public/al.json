@@ -57,7 +57,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "113276323278842",
+      "SoundId": "138107977002881",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -92,14 +92,14 @@
   ],
   "Mystical Magical": [
     {
-      "SoundId": "122207309211166",
+      "SoundId": "120442393637657",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
   ],
   "Ribs": [
     {
-      "SoundId": "118258489525801",
+      "SoundId": "100062858375721",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
