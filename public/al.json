@@ -1,4 +1,11 @@
 {
+  "Hear Me Now": [
+    {
+      "SoundId": "77974817010751",
+      "LayerIndex": "1",
+      "FullFileName": "HearMe.ogg"
+    }
+  ],
   "ESTA NOCHE": [
     {
       "SoundId": "111871167900843",
