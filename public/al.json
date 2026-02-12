@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "114823809371326",
+      "SoundId": "122609908472158",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -29,14 +29,14 @@
   ],
   "Dia Delicia": [
     {
-      "SoundId": "111199270802643",
+      "SoundId": "116940405201558",
       "LayerIndex": "1",
       "FullFileName": "Dia.ogg"
     }
   ],
   "Destroy me": [
     {
-      "SoundId": "107032803413609",
+      "SoundId": "78970065298238",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "137036222910396",
+      "SoundId": "80387207353889",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "112923341240436",
+      "SoundId": "100155801230187",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
