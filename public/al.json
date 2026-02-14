@@ -8,7 +8,7 @@
   ],
   "ESTA NOCHE": [
     {
-      "SoundId": "140284016990141",
+      "SoundId": "109787882711639",
       "LayerIndex": "1",
       "FullFileName": "ESTANOCHE_1.ogg"
     }
@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "78970065298238",
+      "SoundId": "120156834070709",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -57,14 +57,14 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "128507158856700",
+      "SoundId": "123955703385574",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
   ],
   "Aura Farming": [
     {
-      "SoundId": "130592554735530",
+      "SoundId": "81996774090656",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -92,7 +92,7 @@
   ],
   "Mystical Magical": [
     {
-      "SoundId": "81140438975705",
+      "SoundId": "76292612225602",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
