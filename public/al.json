@@ -29,7 +29,7 @@
   ],
   "Dia Delicia": [
     {
-      "SoundId": "116940405201558",
+      "SoundId": "130471721713750",
       "LayerIndex": "1",
       "FullFileName": "Dia.ogg"
     }
@@ -71,7 +71,7 @@
   ],
   "AY MI GATITO": [
     {
-      "SoundId": "75546922425113",
+      "SoundId": "128998984981190",
       "LayerIndex": "1",
       "FullFileName": "Gatito.ogg"
     }
@@ -106,14 +106,14 @@
   ],
   "Tuesday": [
     {
-      "SoundId": "123590626699679",
+      "SoundId": "82393825203761",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
   ],
   "Acelerada": [
     {
-      "SoundId": "124072249483392",
+      "SoundId": "90563704869652",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -134,21 +134,21 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "80387207353889",
+      "SoundId": "113276303546454",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
   ],
   "Big SZN": [
     {
-      "SoundId": "80116522444284",
+      "SoundId": "98508807522688",
       "LayerIndex": "1",
       "FullFileName": "BigSZN_Main.ogg"
     }
   ],
   "For the Picture": [
     {
-      "SoundId": "79913237252319",
+      "SoundId": "108215938317528",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
@@ -162,7 +162,7 @@
   ],
   "Like A Love Song": [
     {
-      "SoundId": "132638776292835",
+      "SoundId": "117071385182109",
       "LayerIndex": "1",
       "FullFileName": "Song_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "100155801230187",
+      "SoundId": "104212739582559",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
