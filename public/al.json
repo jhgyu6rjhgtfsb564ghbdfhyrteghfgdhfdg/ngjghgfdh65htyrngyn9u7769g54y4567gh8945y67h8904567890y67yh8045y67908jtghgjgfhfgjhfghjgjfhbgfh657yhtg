@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "120156834070709",
+      "SoundId": "91589524579126",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -57,7 +57,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "123955703385574",
+      "SoundId": "138733781215367",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -78,7 +78,7 @@
   ],
   "Just A Girl": [
     {
-      "SoundId": "93124677365072",
+      "SoundId": "117362375333146",
       "LayerIndex": "1",
       "FullFileName": "AGirl.ogg"
     }
