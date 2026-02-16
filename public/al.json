@@ -92,7 +92,7 @@
   ],
   "Mystical Magical": [
     {
-      "SoundId": "76292612225602",
+      "SoundId": "107040207489515",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -155,7 +155,7 @@
   ],
   "Finally 18": [
     {
-      "SoundId": "83987428486427",
+      "SoundId": "79827002425207",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "104212739582559",
+      "SoundId": "114269228978868",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
