@@ -8,7 +8,7 @@
   ],
   "ESTA NOCHE": [
     {
-      "SoundId": "116539090342768",
+      "SoundId": "98289970087980",
       "LayerIndex": "1",
       "FullFileName": "ESTANOCHE_1.ogg"
     }
@@ -29,14 +29,14 @@
   ],
   "Dia Delicia": [
     {
-      "SoundId": "98390881129507",
+      "SoundId": "110986140458108",
       "LayerIndex": "1",
       "FullFileName": "Dia.ogg"
     }
   ],
   "Destroy me": [
     {
-      "SoundId": "91589524579126",
+      "SoundId": "102433076120514",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
