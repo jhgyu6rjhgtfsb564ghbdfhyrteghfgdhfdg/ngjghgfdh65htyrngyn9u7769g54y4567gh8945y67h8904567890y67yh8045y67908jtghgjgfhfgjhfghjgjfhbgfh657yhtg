@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "114205371936572",
+      "SoundId": "130853074455650",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -106,7 +106,7 @@
   ],
   "Tuesday": [
     {
-      "SoundId": "105732259310867",
+      "SoundId": "133133217104414",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "87122156489594",
+      "SoundId": "109462529953742",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
@@ -155,7 +155,7 @@
   ],
   "Finally 18": [
     {
-      "SoundId": "104798220067357",
+      "SoundId": "121568156717195",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
