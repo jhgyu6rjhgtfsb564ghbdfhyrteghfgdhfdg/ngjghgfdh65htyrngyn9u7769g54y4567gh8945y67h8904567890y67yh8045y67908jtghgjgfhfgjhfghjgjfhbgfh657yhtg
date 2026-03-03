@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "102868718499517",
+      "SoundId": "77408027327309",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "71861160733176",
+      "SoundId": "96412883350475",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -57,7 +57,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "112777435638316",
+      "SoundId": "87571226794172",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "130853074455650",
+      "SoundId": "74855723855607",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -99,7 +99,7 @@
   ],
   "Ribs": [
     {
-      "SoundId": "138355456065222",
+      "SoundId": "109635053288015",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
@@ -148,7 +148,7 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "80165568431296",
+      "SoundId": "89354986452251",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
@@ -169,7 +169,7 @@
   ],
   "Flower": [
     {
-      "SoundId": "139230029179243",
+      "SoundId": "80698774045366",
       "LayerIndex": "1",
       "FullFileName": "Flower_Main.ogg"
     }
@@ -190,7 +190,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "91240799134837",
+      "SoundId": "114425555955355",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
