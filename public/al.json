@@ -29,7 +29,7 @@
   ],
   "Dia Delicia": [
     {
-      "SoundId": "79604632421449",
+      "SoundId": "129307049393224",
       "LayerIndex": "1",
       "FullFileName": "Dia.ogg"
     }
@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "74855723855607",
+      "SoundId": "124514835196484",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -113,7 +113,7 @@
   ],
   "Acelerada": [
     {
-      "SoundId": "100670500394776",
+      "SoundId": "120756117997247",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
