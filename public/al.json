@@ -113,7 +113,7 @@
   ],
   "Acelerada": [
     {
-      "SoundId": "78249991513962",
+      "SoundId": "71410978527859",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "73993082116236",
+      "SoundId": "132856296508015",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "95053373852483",
+      "SoundId": "131814652420654",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
