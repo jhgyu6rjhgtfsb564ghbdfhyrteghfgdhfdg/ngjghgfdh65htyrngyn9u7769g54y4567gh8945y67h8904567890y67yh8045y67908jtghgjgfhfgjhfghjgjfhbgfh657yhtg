@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "72492279827733",
+      "SoundId": "86706184556107",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -162,7 +162,7 @@
   ],
   "Like A Love Song": [
     {
-      "SoundId": "113948023344010",
+      "SoundId": "84285437414300",
       "LayerIndex": "1",
       "FullFileName": "Song_Main.ogg"
     }
