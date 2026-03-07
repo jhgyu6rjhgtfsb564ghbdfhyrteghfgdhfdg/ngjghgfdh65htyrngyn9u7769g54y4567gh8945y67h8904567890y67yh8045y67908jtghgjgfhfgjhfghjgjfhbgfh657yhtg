@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "82747258870942",
+      "SoundId": "115225681250157",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -22,7 +22,7 @@
   ],
   "A Deal With God": [
     {
-      "SoundId": "123859071454259",
+      "SoundId": "105564583347960",
       "LayerIndex": "1",
       "FullFileName": "Uphill.ogg"
     }
@@ -85,14 +85,14 @@
   ],
   "Maps": [
     {
-      "SoundId": "135959898048826",
+      "SoundId": "88687426123786",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
   ],
   "Mystical Magical": [
     {
-      "SoundId": "122417413561802",
+      "SoundId": "99854908563655",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -190,7 +190,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "72839309600440",
+      "SoundId": "72655491514168",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
