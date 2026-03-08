@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "86706184556107",
+      "SoundId": "105284215123284",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -71,7 +71,7 @@
   ],
   "AY MI GATITO": [
     {
-      "SoundId": "75989742315749",
+      "SoundId": "122482645715255",
       "LayerIndex": "1",
       "FullFileName": "Gatito.ogg"
     }
@@ -85,14 +85,14 @@
   ],
   "Maps": [
     {
-      "SoundId": "88687426123786",
+      "SoundId": "123870512249432",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
   ],
   "Mystical Magical": [
     {
-      "SoundId": "99854908563655",
+      "SoundId": "86288062471682",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -106,14 +106,14 @@
   ],
   "Tuesday": [
     {
-      "SoundId": "127820484727977",
+      "SoundId": "120686009724904",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
   ],
   "Acelerada": [
     {
-      "SoundId": "71410978527859",
+      "SoundId": "129677201823924",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
