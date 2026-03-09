@@ -57,7 +57,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "118895193774025",
+      "SoundId": "82707192467718",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -99,7 +99,7 @@
   ],
   "Ribs": [
     {
-      "SoundId": "108925183073971",
+      "SoundId": "87368706603251",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "138054384918231",
+      "SoundId": "90568268714371",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "124160162513962",
+      "SoundId": "72271803796872",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
