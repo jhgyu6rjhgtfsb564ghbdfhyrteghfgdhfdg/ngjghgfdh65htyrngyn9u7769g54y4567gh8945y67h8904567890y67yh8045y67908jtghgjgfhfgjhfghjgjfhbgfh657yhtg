@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "84555300263726",
+      "SoundId": "79763386613852",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -106,7 +106,7 @@
   ],
   "Tuesday": [
     {
-      "SoundId": "107176593102479",
+      "SoundId": "119434466601979",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "90568268714371",
+      "SoundId": "86716605578051",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
