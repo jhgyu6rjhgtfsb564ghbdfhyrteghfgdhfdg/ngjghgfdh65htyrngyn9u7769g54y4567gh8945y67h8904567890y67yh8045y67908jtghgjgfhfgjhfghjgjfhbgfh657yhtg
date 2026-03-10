@@ -29,7 +29,7 @@
   ],
   "Dia Delicia": [
     {
-      "SoundId": "75199547258943",
+      "SoundId": "112867871571520",
       "LayerIndex": "1",
       "FullFileName": "Dia.ogg"
     }
@@ -64,7 +64,7 @@
   ],
   "Aura Farming": [
     {
-      "SoundId": "79635298021347",
+      "SoundId": "101018611891296",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "103997906669880",
+      "SoundId": "75489199665729",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -148,14 +148,14 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "139147162279673",
+      "SoundId": "75791891568673",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
   ],
   "Finally 18": [
     {
-      "SoundId": "117093254016838",
+      "SoundId": "83930469218216",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
@@ -190,7 +190,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "114597486321931",
+      "SoundId": "94177294821328",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
