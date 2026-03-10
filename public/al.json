@@ -92,14 +92,14 @@
   ],
   "Mystical Magical": [
     {
-      "SoundId": "109529293698416",
+      "SoundId": "126838226099099",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
   ],
   "Ribs": [
     {
-      "SoundId": "87368706603251",
+      "SoundId": "101221860510476",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
@@ -141,7 +141,7 @@
   ],
   "Big SZN": [
     {
-      "SoundId": "89913778868488",
+      "SoundId": "77743890300751",
       "LayerIndex": "1",
       "FullFileName": "BigSZN_Main.ogg"
     }
