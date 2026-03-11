@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "75489199665729",
+      "SoundId": "81160250705678",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -148,14 +148,14 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "75791891568673",
+      "SoundId": "124152351174865",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
   ],
   "Finally 18": [
     {
-      "SoundId": "83930469218216",
+      "SoundId": "106352228120959",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "100650749409671",
+      "SoundId": "106337296109049",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
