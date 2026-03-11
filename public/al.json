@@ -29,14 +29,14 @@
   ],
   "Dia Delicia": [
     {
-      "SoundId": "112867871571520",
+      "SoundId": "77850319253479",
       "LayerIndex": "1",
       "FullFileName": "Dia.ogg"
     }
   ],
   "Destroy me": [
     {
-      "SoundId": "83731626425151",
+      "SoundId": "99141471584343",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -57,7 +57,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "113381665426322",
+      "SoundId": "129677906107778",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
