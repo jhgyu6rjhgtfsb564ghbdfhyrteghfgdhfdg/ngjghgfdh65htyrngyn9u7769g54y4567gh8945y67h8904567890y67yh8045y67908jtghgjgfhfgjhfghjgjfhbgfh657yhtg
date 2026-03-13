@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "88644552317506",
+      "SoundId": "107900913123622",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -78,7 +78,7 @@
   ],
   "Just A Girl": [
     {
-      "SoundId": "72854526505216",
+      "SoundId": "73724793430975",
       "LayerIndex": "1",
       "FullFileName": "AGirl.ogg"
     }
@@ -190,7 +190,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "88487718588114",
+      "SoundId": "97553744962336",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
