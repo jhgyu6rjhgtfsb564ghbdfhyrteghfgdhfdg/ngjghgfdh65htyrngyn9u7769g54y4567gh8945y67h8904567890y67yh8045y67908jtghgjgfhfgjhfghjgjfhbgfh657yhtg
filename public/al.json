@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "103084850111201",
+      "SoundId": "118370034311643",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -71,7 +71,7 @@
   ],
   "AY MI GATITO": [
     {
-      "SoundId": "95020667389085",
+      "SoundId": "84700167682435",
       "LayerIndex": "1",
       "FullFileName": "Gatito.ogg"
     }
@@ -141,14 +141,14 @@
   ],
   "Big SZN": [
     {
-      "SoundId": "128219103727794",
+      "SoundId": "127056964738636",
       "LayerIndex": "1",
       "FullFileName": "BigSZN_Main.ogg"
     }
   ],
   "For the Picture": [
     {
-      "SoundId": "86294898212435",
+      "SoundId": "97943062236446",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "112798846266817",
+      "SoundId": "116158914621996",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
