@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "118370034311643",
+      "SoundId": "86564886192210",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -57,7 +57,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "131990317063223",
+      "SoundId": "111412105176180",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "73597810635318",
+      "SoundId": "72194590960995",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
