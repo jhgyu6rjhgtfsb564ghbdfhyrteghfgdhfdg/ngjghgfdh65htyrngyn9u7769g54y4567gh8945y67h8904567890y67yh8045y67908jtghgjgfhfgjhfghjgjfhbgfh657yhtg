@@ -29,7 +29,7 @@
   ],
   "Dia Delicia": [
     {
-      "SoundId": "118361714788197",
+      "SoundId": "107972479744407",
       "LayerIndex": "1",
       "FullFileName": "Dia.ogg"
     }
@@ -99,21 +99,21 @@
   ],
   "Ribs": [
     {
-      "SoundId": "98766610969742",
+      "SoundId": "121710743451419",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
   ],
   "Tuesday": [
     {
-      "SoundId": "81902181051460",
+      "SoundId": "116767741876121",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
   ],
   "Acelerada": [
     {
-      "SoundId": "73092914354455",
+      "SoundId": "112840570661999",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "87845419816509",
+      "SoundId": "100639758124564",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
@@ -162,7 +162,7 @@
   ],
   "Like A Love Song": [
     {
-      "SoundId": "114639016621732",
+      "SoundId": "85954440865952",
       "LayerIndex": "1",
       "FullFileName": "Song_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "116158914621996",
+      "SoundId": "138253896392925",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
