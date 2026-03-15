@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "86564886192210",
+      "SoundId": "74952946080392",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "96337507042690",
+      "SoundId": "123975536991383",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -92,7 +92,7 @@
   ],
   "Mystical Magical": [
     {
-      "SoundId": "74083404218109",
+      "SoundId": "128749962325174",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -148,14 +148,14 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "70385338830227",
+      "SoundId": "90261400423534",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
   ],
   "Finally 18": [
     {
-      "SoundId": "131163804785461",
+      "SoundId": "115460966585964",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
