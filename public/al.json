@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "72194590960995",
+      "SoundId": "101234247780689",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "100639758124564",
+      "SoundId": "106903591238605",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
@@ -169,7 +169,7 @@
   ],
   "Flower": [
     {
-      "SoundId": "93407251809711",
+      "SoundId": "122215486332269",
       "LayerIndex": "1",
       "FullFileName": "Flower_Main.ogg"
     }
