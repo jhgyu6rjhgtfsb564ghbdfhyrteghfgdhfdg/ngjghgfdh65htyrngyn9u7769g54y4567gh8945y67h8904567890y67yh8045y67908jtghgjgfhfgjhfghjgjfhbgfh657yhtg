@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "101234247780689",
+      "SoundId": "103404081019654",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -141,14 +141,14 @@
   ],
   "Big SZN": [
     {
-      "SoundId": "103659923656234",
+      "SoundId": "125795595566633",
       "LayerIndex": "1",
       "FullFileName": "BigSZN_Main.ogg"
     }
   ],
   "For the Picture": [
     {
-      "SoundId": "90261400423534",
+      "SoundId": "122897967920048",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
@@ -162,7 +162,7 @@
   ],
   "Like A Love Song": [
     {
-      "SoundId": "95207547691682",
+      "SoundId": "121176836928531",
       "LayerIndex": "1",
       "FullFileName": "Song_Main.ogg"
     }
@@ -190,7 +190,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "126586107875991",
+      "SoundId": "123601108348375",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
