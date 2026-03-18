@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "128128404628048",
+      "SoundId": "85803883284263",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -78,14 +78,14 @@
   ],
   "Just A Girl": [
     {
-      "SoundId": "139407257068749",
+      "SoundId": "97539988862209",
       "LayerIndex": "1",
       "FullFileName": "AGirl.ogg"
     }
   ],
   "Maps": [
     {
-      "SoundId": "72719842014058",
+      "SoundId": "98191172635310",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -106,14 +106,14 @@
   ],
   "Tuesday": [
     {
-      "SoundId": "72835112277610",
+      "SoundId": "100091514428785",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
   ],
   "Acelerada": [
     {
-      "SoundId": "107052605874628",
+      "SoundId": "130390122392900",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "117582757742691",
+      "SoundId": "111979879041355",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
