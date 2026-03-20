@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "137849189578169",
+      "SoundId": "84899024007368",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "137440666289374",
+      "SoundId": "138039848086526",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -57,14 +57,14 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "131516194914778",
+      "SoundId": "124153536298113",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
   ],
   "Aura Farming": [
     {
-      "SoundId": "139294840650981",
+      "SoundId": "138864516148779",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -99,7 +99,7 @@
   ],
   "Ribs": [
     {
-      "SoundId": "123823890543095",
+      "SoundId": "73747066883100",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
@@ -148,14 +148,14 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "95913362018618",
+      "SoundId": "81323671689299",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
   ],
   "Finally 18": [
     {
-      "SoundId": "96652059391870",
+      "SoundId": "134761170890970",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "109641763372232",
+      "SoundId": "87238039196637",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
