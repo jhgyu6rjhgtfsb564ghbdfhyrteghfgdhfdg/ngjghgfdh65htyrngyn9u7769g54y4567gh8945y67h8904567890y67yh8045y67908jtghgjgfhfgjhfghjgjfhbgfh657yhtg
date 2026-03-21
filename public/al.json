@@ -29,7 +29,7 @@
   ],
   "Dia Delicia": [
     {
-      "SoundId": "89930480100571",
+      "SoundId": "135968290850149",
       "LayerIndex": "1",
       "FullFileName": "Dia.ogg"
     }
@@ -141,7 +141,7 @@
   ],
   "Big SZN": [
     {
-      "SoundId": "106810034962088",
+      "SoundId": "87652139648361",
       "LayerIndex": "1",
       "FullFileName": "BigSZN_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "87238039196637",
+      "SoundId": "126675401917537",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
