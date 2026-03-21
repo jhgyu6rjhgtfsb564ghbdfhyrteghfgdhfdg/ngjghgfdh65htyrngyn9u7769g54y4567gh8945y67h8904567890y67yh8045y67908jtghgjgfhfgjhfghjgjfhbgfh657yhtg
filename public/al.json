@@ -64,7 +64,7 @@
   ],
   "Aura Farming": [
     {
-      "SoundId": "138864516148779",
+      "SoundId": "88234175094591",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -99,7 +99,7 @@
   ],
   "Ribs": [
     {
-      "SoundId": "73747066883100",
+      "SoundId": "86872827554023",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "130402659705647",
+      "SoundId": "88384282328420",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
@@ -148,7 +148,7 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "81323671689299",
+      "SoundId": "92847046507267",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
@@ -169,7 +169,7 @@
   ],
   "Flower": [
     {
-      "SoundId": "78010663321425",
+      "SoundId": "105918225906508",
       "LayerIndex": "1",
       "FullFileName": "Flower_Main.ogg"
     }
