@@ -57,7 +57,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "84091226424757",
+      "SoundId": "114578526395958",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -99,7 +99,7 @@
   ],
   "Ribs": [
     {
-      "SoundId": "92565036117324",
+      "SoundId": "122132140598839",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
@@ -190,7 +190,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "97456996037263",
+      "SoundId": "84848069240858",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
