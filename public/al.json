@@ -64,7 +64,7 @@
   ],
   "Aura Farming": [
     {
-      "SoundId": "138060056734858",
+      "SoundId": "112509106746754",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -85,14 +85,14 @@
   ],
   "Maps": [
     {
-      "SoundId": "123662914177448",
+      "SoundId": "83596024235695",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
   ],
   "Mystical Magical": [
     {
-      "SoundId": "78865345186752",
+      "SoundId": "126800837909600",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -162,14 +162,14 @@
   ],
   "Like A Love Song": [
     {
-      "SoundId": "96376566310520",
+      "SoundId": "133543996593729",
       "LayerIndex": "1",
       "FullFileName": "Song_Main.ogg"
     }
   ],
   "Flower": [
     {
-      "SoundId": "114521737230732",
+      "SoundId": "90746070588931",
       "LayerIndex": "1",
       "FullFileName": "Flower_Main.ogg"
     }
