@@ -29,7 +29,7 @@
   ],
   "Dia Delicia": [
     {
-      "SoundId": "128409269048090",
+      "SoundId": "108284978637997",
       "LayerIndex": "1",
       "FullFileName": "Dia.ogg"
     }
@@ -113,7 +113,7 @@
   ],
   "Acelerada": [
     {
-      "SoundId": "89430305693771",
+      "SoundId": "114306284155526",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -190,7 +190,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "84848069240858",
+      "SoundId": "75807873659611",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
