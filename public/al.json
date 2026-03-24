@@ -71,14 +71,14 @@
   ],
   "AY MI GATITO": [
     {
-      "SoundId": "108135719556116",
+      "SoundId": "129007425331776",
       "LayerIndex": "1",
       "FullFileName": "Gatito.ogg"
     }
   ],
   "Just A Girl": [
     {
-      "SoundId": "133858395714642",
+      "SoundId": "103247851691432",
       "LayerIndex": "1",
       "FullFileName": "AGirl.ogg"
     }
@@ -92,7 +92,7 @@
   ],
   "Mystical Magical": [
     {
-      "SoundId": "126800837909600",
+      "SoundId": "83863029855912",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "74783285999342",
+      "SoundId": "110468472960972",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
