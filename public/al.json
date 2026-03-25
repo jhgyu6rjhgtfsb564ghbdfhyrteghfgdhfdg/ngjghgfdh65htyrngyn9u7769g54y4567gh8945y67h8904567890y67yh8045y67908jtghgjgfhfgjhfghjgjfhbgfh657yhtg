@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "134143368282804",
+      "SoundId": "115812901475161",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -71,7 +71,7 @@
   ],
   "AY MI GATITO": [
     {
-      "SoundId": "129007425331776",
+      "SoundId": "104853896122136",
       "LayerIndex": "1",
       "FullFileName": "Gatito.ogg"
     }
@@ -106,7 +106,7 @@
   ],
   "Tuesday": [
     {
-      "SoundId": "125877401375498",
+      "SoundId": "124518262455384",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
@@ -190,7 +190,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "75807873659611",
+      "SoundId": "120422579038436",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
