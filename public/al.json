@@ -36,14 +36,14 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "115812901475161",
+      "SoundId": "75093854979963",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
   ],
   "Pocoyo Dance": [
     {
-      "SoundId": "124798546446028",
+      "SoundId": "112923598161031",
       "LayerIndex": "1",
       "FullFileName": "Pocoyo.ogg"
     }
@@ -113,7 +113,7 @@
   ],
   "Acelerada": [
     {
-      "SoundId": "90881986573989",
+      "SoundId": "103752313768009",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -134,14 +134,14 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "93016684967133",
+      "SoundId": "133658446181709",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
   ],
   "Big SZN": [
     {
-      "SoundId": "132966425580816",
+      "SoundId": "131703925306217",
       "LayerIndex": "1",
       "FullFileName": "BigSZN_Main.ogg"
     }
