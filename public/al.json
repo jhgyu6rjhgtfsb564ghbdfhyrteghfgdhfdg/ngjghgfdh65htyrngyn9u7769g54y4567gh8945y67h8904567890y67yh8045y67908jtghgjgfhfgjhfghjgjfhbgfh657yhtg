@@ -92,7 +92,7 @@
   ],
   "Mystical Magical": [
     {
-      "SoundId": "112438445717438",
+      "SoundId": "120175298538455",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -106,7 +106,7 @@
   ],
   "Tuesday": [
     {
-      "SoundId": "124518262455384",
+      "SoundId": "88321414654004",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
@@ -148,14 +148,14 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "103586073138907",
+      "SoundId": "114679833930841",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
   ],
   "Finally 18": [
     {
-      "SoundId": "122769857324469",
+      "SoundId": "88450495115171",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "92423860864921",
+      "SoundId": "117168396594414",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
