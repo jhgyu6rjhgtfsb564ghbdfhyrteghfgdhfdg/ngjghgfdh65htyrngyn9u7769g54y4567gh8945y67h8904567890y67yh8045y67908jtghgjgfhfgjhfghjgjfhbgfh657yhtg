@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "88245964523312",
+      "SoundId": "106854854418087",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -99,21 +99,21 @@
   ],
   "Ribs": [
     {
-      "SoundId": "115813969890593",
+      "SoundId": "134783533061688",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
   ],
   "Tuesday": [
     {
-      "SoundId": "88321414654004",
+      "SoundId": "136022486225110",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
   ],
   "Acelerada": [
     {
-      "SoundId": "103752313768009",
+      "SoundId": "79717462849265",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "117168396594414",
+      "SoundId": "70462713432496",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
