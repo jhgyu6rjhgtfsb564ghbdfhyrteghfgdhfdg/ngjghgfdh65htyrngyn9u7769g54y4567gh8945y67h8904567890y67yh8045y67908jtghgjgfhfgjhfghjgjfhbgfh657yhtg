@@ -36,14 +36,14 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "75093854979963",
+      "SoundId": "136094744959711",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
   ],
   "Pocoyo Dance": [
     {
-      "SoundId": "112923598161031",
+      "SoundId": "125996689274599",
       "LayerIndex": "1",
       "FullFileName": "Pocoyo.ogg"
     }
@@ -57,14 +57,14 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "99136252966231",
+      "SoundId": "76399557079857",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
   ],
   "Aura Farming": [
     {
-      "SoundId": "127708710039944",
+      "SoundId": "92086053285075",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -85,14 +85,14 @@
   ],
   "Maps": [
     {
-      "SoundId": "71502779388766",
+      "SoundId": "76236425186093",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
   ],
   "Mystical Magical": [
     {
-      "SoundId": "103335732856037",
+      "SoundId": "136751332144994",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "133658446181709",
+      "SoundId": "138873931327926",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
