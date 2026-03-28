@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "136094744959711",
+      "SoundId": "115135625052441",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "76236425186093",
+      "SoundId": "76364776811631",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -106,14 +106,14 @@
   ],
   "Tuesday": [
     {
-      "SoundId": "136022486225110",
+      "SoundId": "71837255492745",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
   ],
   "Acelerada": [
     {
-      "SoundId": "79717462849265",
+      "SoundId": "108826059729443",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "138873931327926",
+      "SoundId": "82359311159063",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
@@ -148,21 +148,21 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "136183293538933",
+      "SoundId": "86554197013888",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
   ],
   "Finally 18": [
     {
-      "SoundId": "100976437172889",
+      "SoundId": "104319773061466",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
   ],
   "Like A Love Song": [
     {
-      "SoundId": "93810018452423",
+      "SoundId": "100025359515635",
       "LayerIndex": "1",
       "FullFileName": "Song_Main.ogg"
     }
