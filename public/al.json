@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "100867062362933",
+      "SoundId": "86378120939370",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "115135625052441",
+      "SoundId": "96423060566623",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -155,7 +155,7 @@
   ],
   "Finally 18": [
     {
-      "SoundId": "104319773061466",
+      "SoundId": "101315472784227",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
