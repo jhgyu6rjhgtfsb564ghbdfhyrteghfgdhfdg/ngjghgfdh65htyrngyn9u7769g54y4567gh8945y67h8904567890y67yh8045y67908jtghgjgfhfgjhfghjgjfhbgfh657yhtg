@@ -29,7 +29,7 @@
   ],
   "Dia Delicia": [
     {
-      "SoundId": "100427563140779",
+      "SoundId": "123278121340339",
       "LayerIndex": "1",
       "FullFileName": "Dia.ogg"
     }
@@ -57,14 +57,14 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "90316621604023",
+      "SoundId": "96765165478370",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
   ],
   "Aura Farming": [
     {
-      "SoundId": "88195762579986",
+      "SoundId": "98194820378411",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "76364776811631",
+      "SoundId": "87050996832450",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "82359311159063",
+      "SoundId": "89057580205270",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
@@ -148,7 +148,7 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "86554197013888",
+      "SoundId": "111893467682524",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
@@ -162,14 +162,14 @@
   ],
   "Like A Love Song": [
     {
-      "SoundId": "100025359515635",
+      "SoundId": "118087651089269",
       "LayerIndex": "1",
       "FullFileName": "Song_Main.ogg"
     }
   ],
   "Flower": [
     {
-      "SoundId": "74370719393696",
+      "SoundId": "100898426099951",
       "LayerIndex": "1",
       "FullFileName": "Flower_Main.ogg"
     }
