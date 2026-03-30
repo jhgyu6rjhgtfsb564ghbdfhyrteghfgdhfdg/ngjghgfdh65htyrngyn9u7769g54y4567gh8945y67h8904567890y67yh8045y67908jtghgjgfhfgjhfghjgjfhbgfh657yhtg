@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "86378120939370",
+      "SoundId": "139711017405745",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -57,14 +57,14 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "96765165478370",
+      "SoundId": "81246378956262",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
   ],
   "Aura Farming": [
     {
-      "SoundId": "98194820378411",
+      "SoundId": "140398312601953",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -92,7 +92,7 @@
   ],
   "Mystical Magical": [
     {
-      "SoundId": "120083924773921",
+      "SoundId": "81317618293979",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -148,7 +148,7 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "111893467682524",
+      "SoundId": "96994485273474",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "79605621507079",
+      "SoundId": "118364349872694",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
