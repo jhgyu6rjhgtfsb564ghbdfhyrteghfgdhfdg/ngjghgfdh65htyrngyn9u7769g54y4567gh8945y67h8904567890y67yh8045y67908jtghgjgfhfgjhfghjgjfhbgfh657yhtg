@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "139711017405745",
+      "SoundId": "89763825341791",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -29,7 +29,7 @@
   ],
   "Dia Delicia": [
     {
-      "SoundId": "139497497192316",
+      "SoundId": "128537938701170",
       "LayerIndex": "1",
       "FullFileName": "Dia.ogg"
     }
@@ -43,7 +43,7 @@
   ],
   "Pocoyo Dance": [
     {
-      "SoundId": "113182961744033",
+      "SoundId": "116379436477809",
       "LayerIndex": "1",
       "FullFileName": "Pocoyo.ogg"
     }
@@ -64,7 +64,7 @@
   ],
   "Aura Farming": [
     {
-      "SoundId": "140398312601953",
+      "SoundId": "118809548700619",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "94280148839852",
+      "SoundId": "139838996054493",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
@@ -148,7 +148,7 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "96994485273474",
+      "SoundId": "116007265889709",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "114824122997164",
+      "SoundId": "129289715609593",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
