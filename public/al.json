@@ -43,7 +43,7 @@
   ],
   "Pocoyo Dance": [
     {
-      "SoundId": "116379436477809",
+      "SoundId": "89737384720204",
       "LayerIndex": "1",
       "FullFileName": "Pocoyo.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "139838996054493",
+      "SoundId": "91757501432143",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "129289715609593",
+      "SoundId": "136076997658707",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
