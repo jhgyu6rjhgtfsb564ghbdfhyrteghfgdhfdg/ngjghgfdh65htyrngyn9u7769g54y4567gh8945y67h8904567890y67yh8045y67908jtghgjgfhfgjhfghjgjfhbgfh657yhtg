@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "79231144457906",
+      "SoundId": "86981344939053",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -64,14 +64,14 @@
   ],
   "Aura Farming": [
     {
-      "SoundId": "75357188293967",
+      "SoundId": "115324655544525",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
   ],
   "AY MI GATITO": [
     {
-      "SoundId": "101362333325651",
+      "SoundId": "114047497741973",
       "LayerIndex": "1",
       "FullFileName": "Gatito.ogg"
     }
@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "121031916326983",
+      "SoundId": "139275437151381",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -99,7 +99,7 @@
   ],
   "Ribs": [
     {
-      "SoundId": "116098497959076",
+      "SoundId": "94335807852085",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
@@ -113,7 +113,7 @@
   ],
   "Acelerada": [
     {
-      "SoundId": "121502649718403",
+      "SoundId": "102245438248175",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "91757501432143",
+      "SoundId": "84130485293857",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
@@ -155,7 +155,7 @@
   ],
   "Finally 18": [
     {
-      "SoundId": "126996499741967",
+      "SoundId": "133041673515564",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
@@ -169,7 +169,7 @@
   ],
   "Flower": [
     {
-      "SoundId": "127176132206505",
+      "SoundId": "100678703674517",
       "LayerIndex": "1",
       "FullFileName": "Flower_Main.ogg"
     }
