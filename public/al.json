@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "139275437151381",
+      "SoundId": "123723948206727",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -148,7 +148,7 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "80718945868620",
+      "SoundId": "73158922844542",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "121267654217326",
+      "SoundId": "139708824581329",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
