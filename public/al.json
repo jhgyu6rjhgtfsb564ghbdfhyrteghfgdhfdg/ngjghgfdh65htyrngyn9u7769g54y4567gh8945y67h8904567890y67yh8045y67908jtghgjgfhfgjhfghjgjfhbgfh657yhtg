@@ -29,14 +29,14 @@
   ],
   "Dia Delicia": [
     {
-      "SoundId": "106316042730157",
+      "SoundId": "116851858309666",
       "LayerIndex": "1",
       "FullFileName": "Dia.ogg"
     }
   ],
   "Destroy me": [
     {
-      "SoundId": "101417507695918",
+      "SoundId": "112740037549803",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -57,7 +57,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "106251016499005",
+      "SoundId": "96253589530549",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -99,7 +99,7 @@
   ],
   "Ribs": [
     {
-      "SoundId": "127556216676487",
+      "SoundId": "110178567572136",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
@@ -113,7 +113,7 @@
   ],
   "Acelerada": [
     {
-      "SoundId": "122380625794345",
+      "SoundId": "92511173373968",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "110237301659810",
+      "SoundId": "88890060931902",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
