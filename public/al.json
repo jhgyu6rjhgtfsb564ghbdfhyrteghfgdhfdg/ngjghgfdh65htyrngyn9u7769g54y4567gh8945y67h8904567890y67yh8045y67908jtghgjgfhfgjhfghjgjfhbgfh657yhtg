@@ -43,7 +43,7 @@
   ],
   "Pocoyo Dance": [
     {
-      "SoundId": "96075856059560",
+      "SoundId": "126551357018852",
       "LayerIndex": "1",
       "FullFileName": "Pocoyo.ogg"
     }
@@ -99,7 +99,7 @@
   ],
   "Ribs": [
     {
-      "SoundId": "110178567572136",
+      "SoundId": "109249683967584",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
