@@ -43,7 +43,7 @@
   ],
   "Pocoyo Dance": [
     {
-      "SoundId": "126551357018852",
+      "SoundId": "84174889577236",
       "LayerIndex": "1",
       "FullFileName": "Pocoyo.ogg"
     }
@@ -57,7 +57,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "137181918740142",
+      "SoundId": "85223179149001",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -71,7 +71,7 @@
   ],
   "AY MI GATITO": [
     {
-      "SoundId": "123754954845576",
+      "SoundId": "78939728492623",
       "LayerIndex": "1",
       "FullFileName": "Gatito.ogg"
     }
