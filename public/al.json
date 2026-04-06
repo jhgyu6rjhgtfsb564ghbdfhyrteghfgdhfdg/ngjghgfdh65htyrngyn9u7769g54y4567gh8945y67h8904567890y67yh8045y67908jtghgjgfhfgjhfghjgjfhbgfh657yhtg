@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "135508644836998",
+      "SoundId": "134690154941976",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -92,7 +92,7 @@
   ],
   "Mystical Magical": [
     {
-      "SoundId": "83794935825615",
+      "SoundId": "114383625823926",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -162,7 +162,7 @@
   ],
   "Like A Love Song": [
     {
-      "SoundId": "90911518771182",
+      "SoundId": "136540809728549",
       "LayerIndex": "1",
       "FullFileName": "Song_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "126731005898542",
+      "SoundId": "73283472424948",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
