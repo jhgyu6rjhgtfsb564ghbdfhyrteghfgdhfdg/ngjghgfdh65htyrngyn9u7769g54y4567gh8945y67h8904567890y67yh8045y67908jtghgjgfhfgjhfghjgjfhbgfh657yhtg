@@ -29,7 +29,7 @@
   ],
   "Dia Delicia": [
     {
-      "SoundId": "132108368434626",
+      "SoundId": "112131486508261",
       "LayerIndex": "1",
       "FullFileName": "Dia.ogg"
     }
@@ -57,14 +57,14 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "85223179149001",
+      "SoundId": "111298595773276",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
   ],
   "Aura Farming": [
     {
-      "SoundId": "117235384397327",
+      "SoundId": "106951575168986",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -106,7 +106,7 @@
   ],
   "Tuesday": [
     {
-      "SoundId": "109207540744404",
+      "SoundId": "80700434473729",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
@@ -148,7 +148,7 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "112047410248409",
+      "SoundId": "131302882222690",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
@@ -162,7 +162,7 @@
   ],
   "Like A Love Song": [
     {
-      "SoundId": "136540809728549",
+      "SoundId": "118838704440625",
       "LayerIndex": "1",
       "FullFileName": "Song_Main.ogg"
     }
