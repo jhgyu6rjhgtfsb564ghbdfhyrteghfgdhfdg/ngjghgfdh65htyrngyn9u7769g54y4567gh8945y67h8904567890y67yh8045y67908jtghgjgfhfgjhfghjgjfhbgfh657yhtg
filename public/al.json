@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "125982876363132",
+      "SoundId": "95738048617788",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -92,7 +92,7 @@
   ],
   "Mystical Magical": [
     {
-      "SoundId": "77173422376189",
+      "SoundId": "122799692618139",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
