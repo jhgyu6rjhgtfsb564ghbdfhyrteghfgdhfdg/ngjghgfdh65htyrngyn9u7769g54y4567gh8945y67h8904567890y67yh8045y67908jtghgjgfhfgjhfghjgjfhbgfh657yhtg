@@ -43,7 +43,7 @@
   ],
   "Pocoyo Dance": [
     {
-      "SoundId": "84174889577236",
+      "SoundId": "119285404872961",
       "LayerIndex": "1",
       "FullFileName": "Pocoyo.ogg"
     }
@@ -78,7 +78,7 @@
   ],
   "Just A Girl": [
     {
-      "SoundId": "85574506322516",
+      "SoundId": "100405170816547",
       "LayerIndex": "1",
       "FullFileName": "AGirl.ogg"
     }
@@ -92,7 +92,7 @@
   ],
   "Mystical Magical": [
     {
-      "SoundId": "114383625823926",
+      "SoundId": "77173422376189",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -113,7 +113,7 @@
   ],
   "Acelerada": [
     {
-      "SoundId": "119580907296054",
+      "SoundId": "74619528294065",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -169,7 +169,7 @@
   ],
   "Flower": [
     {
-      "SoundId": "137457981916409",
+      "SoundId": "86733386580647",
       "LayerIndex": "1",
       "FullFileName": "Flower_Main.ogg"
     }
@@ -190,7 +190,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "139207943574954",
+      "SoundId": "135108081367238",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
