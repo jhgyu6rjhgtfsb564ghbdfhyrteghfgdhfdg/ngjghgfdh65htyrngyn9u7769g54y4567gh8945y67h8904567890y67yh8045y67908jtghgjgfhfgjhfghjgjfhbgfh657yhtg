@@ -64,7 +64,7 @@
   ],
   "Aura Farming": [
     {
-      "SoundId": "106951575168986",
+      "SoundId": "85955323677095",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "77509695547077",
+      "SoundId": "76594233492427",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -106,14 +106,14 @@
   ],
   "Tuesday": [
     {
-      "SoundId": "80700434473729",
+      "SoundId": "79722928147148",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
   ],
   "Acelerada": [
     {
-      "SoundId": "74619528294065",
+      "SoundId": "130548841992946",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "74508341918121",
+      "SoundId": "125316103453612",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
@@ -190,7 +190,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "135108081367238",
+      "SoundId": "72465354811721",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
