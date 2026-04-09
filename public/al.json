@@ -29,7 +29,7 @@
   ],
   "Dia Delicia": [
     {
-      "SoundId": "115961506291674",
+      "SoundId": "111448063762196",
       "LayerIndex": "1",
       "FullFileName": "Dia.ogg"
     }
@@ -71,7 +71,7 @@
   ],
   "AY MI GATITO": [
     {
-      "SoundId": "123983561856379",
+      "SoundId": "95228593468836",
       "LayerIndex": "1",
       "FullFileName": "Gatito.ogg"
     }
@@ -190,7 +190,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "103006378218962",
+      "SoundId": "125135862645936",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
