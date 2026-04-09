@@ -43,7 +43,7 @@
   ],
   "Pocoyo Dance": [
     {
-      "SoundId": "137575955740941",
+      "SoundId": "131041099073318",
       "LayerIndex": "1",
       "FullFileName": "Pocoyo.ogg"
     }
@@ -57,7 +57,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "102659879113646",
+      "SoundId": "120922167921836",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -92,14 +92,14 @@
   ],
   "Mystical Magical": [
     {
-      "SoundId": "76189472013035",
+      "SoundId": "117030902302915",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
   ],
   "Ribs": [
     {
-      "SoundId": "120108257154152",
+      "SoundId": "74649725320244",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
@@ -155,7 +155,7 @@
   ],
   "Finally 18": [
     {
-      "SoundId": "97072802430513",
+      "SoundId": "118796359327499",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
@@ -190,7 +190,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "72465354811721",
+      "SoundId": "103006378218962",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
