@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "97232396270836",
+      "SoundId": "127161213855926",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -64,7 +64,7 @@
   ],
   "Aura Farming": [
     {
-      "SoundId": "85955323677095",
+      "SoundId": "82195027762967",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "89825983418693",
+      "SoundId": "114561489991771",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -113,7 +113,7 @@
   ],
   "Acelerada": [
     {
-      "SoundId": "130548841992946",
+      "SoundId": "133655783057291",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
