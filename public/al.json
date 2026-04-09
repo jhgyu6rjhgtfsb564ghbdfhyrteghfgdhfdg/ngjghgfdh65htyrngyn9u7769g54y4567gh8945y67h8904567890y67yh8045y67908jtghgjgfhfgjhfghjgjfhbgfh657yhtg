@@ -106,7 +106,7 @@
   ],
   "Tuesday": [
     {
-      "SoundId": "79722928147148",
+      "SoundId": "134416553023041",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
@@ -169,7 +169,7 @@
   ],
   "Flower": [
     {
-      "SoundId": "111176976733956",
+      "SoundId": "117820637662410",
       "LayerIndex": "1",
       "FullFileName": "Flower_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "109076467893120",
+      "SoundId": "84726375973558",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
