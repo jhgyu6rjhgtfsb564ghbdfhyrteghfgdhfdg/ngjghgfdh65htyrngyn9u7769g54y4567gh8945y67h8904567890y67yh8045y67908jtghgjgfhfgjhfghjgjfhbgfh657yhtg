@@ -8,7 +8,7 @@
   ],
   "ESTA NOCHE": [
     {
-      "SoundId": "73704149691899",
+      "SoundId": "110543791381227",
       "LayerIndex": "1",
       "FullFileName": "ESTANOCHE_1.ogg"
     }
@@ -134,21 +134,21 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "96270035148963",
+      "SoundId": "123122204456896",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
   ],
   "Big SZN": [
     {
-      "SoundId": "133560974615863",
+      "SoundId": "131316193809221",
       "LayerIndex": "1",
       "FullFileName": "BigSZN_Main.ogg"
     }
   ],
   "For the Picture": [
     {
-      "SoundId": "113770004002444",
+      "SoundId": "77712665941133",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "84726375973558",
+      "SoundId": "108459984738404",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
