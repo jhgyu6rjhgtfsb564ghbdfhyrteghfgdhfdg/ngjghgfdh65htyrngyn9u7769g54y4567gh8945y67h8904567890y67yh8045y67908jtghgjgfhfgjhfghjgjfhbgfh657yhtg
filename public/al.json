@@ -43,7 +43,7 @@
   ],
   "Pocoyo Dance": [
     {
-      "SoundId": "131041099073318",
+      "SoundId": "76573467298424",
       "LayerIndex": "1",
       "FullFileName": "Pocoyo.ogg"
     }
@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "114561489991771",
+      "SoundId": "109919049234358",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -106,7 +106,7 @@
   ],
   "Tuesday": [
     {
-      "SoundId": "134416553023041",
+      "SoundId": "123977769869561",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
@@ -155,7 +155,7 @@
   ],
   "Finally 18": [
     {
-      "SoundId": "118796359327499",
+      "SoundId": "113347399140437",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
