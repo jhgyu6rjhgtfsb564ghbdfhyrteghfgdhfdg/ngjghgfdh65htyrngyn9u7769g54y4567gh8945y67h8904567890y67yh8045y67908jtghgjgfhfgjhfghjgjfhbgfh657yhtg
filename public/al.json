@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "137769345705291",
+      "SoundId": "120716810144709",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -71,21 +71,21 @@
   ],
   "AY MI GATITO": [
     {
-      "SoundId": "117226780800860",
+      "SoundId": "129028029640917",
       "LayerIndex": "1",
       "FullFileName": "Gatito.ogg"
     }
   ],
   "Just A Girl": [
     {
-      "SoundId": "115379449644323",
+      "SoundId": "135267913501888",
       "LayerIndex": "1",
       "FullFileName": "AGirl.ogg"
     }
   ],
   "Maps": [
     {
-      "SoundId": "109919049234358",
+      "SoundId": "133142478124828",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
