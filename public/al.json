@@ -8,7 +8,7 @@
   ],
   "ESTA NOCHE": [
     {
-      "SoundId": "110543791381227",
+      "SoundId": "102005947840300",
       "LayerIndex": "1",
       "FullFileName": "ESTANOCHE_1.ogg"
     }
@@ -22,7 +22,7 @@
   ],
   "A Deal With God": [
     {
-      "SoundId": "128026367663762",
+      "SoundId": "99880213428803",
       "LayerIndex": "1",
       "FullFileName": "Uphill.ogg"
     }
@@ -64,7 +64,7 @@
   ],
   "Aura Farming": [
     {
-      "SoundId": "103900363005045",
+      "SoundId": "95422153038709",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "108459984738404",
+      "SoundId": "120878975644233",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
