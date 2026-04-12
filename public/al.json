@@ -43,7 +43,7 @@
   ],
   "Pocoyo Dance": [
     {
-      "SoundId": "96552440765214",
+      "SoundId": "129618136727825",
       "LayerIndex": "1",
       "FullFileName": "Pocoyo.ogg"
     }
@@ -92,7 +92,7 @@
   ],
   "Mystical Magical": [
     {
-      "SoundId": "75668208346293",
+      "SoundId": "129990746659848",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -162,7 +162,7 @@
   ],
   "Like A Love Song": [
     {
-      "SoundId": "90374530610218",
+      "SoundId": "105928294164055",
       "LayerIndex": "1",
       "FullFileName": "Song_Main.ogg"
     }
