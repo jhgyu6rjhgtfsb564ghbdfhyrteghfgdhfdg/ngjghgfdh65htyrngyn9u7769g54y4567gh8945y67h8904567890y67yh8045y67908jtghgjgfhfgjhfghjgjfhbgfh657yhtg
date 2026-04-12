@@ -29,14 +29,14 @@
   ],
   "Dia Delicia": [
     {
-      "SoundId": "74012983789222",
+      "SoundId": "107508049487693",
       "LayerIndex": "1",
       "FullFileName": "Dia.ogg"
     }
   ],
   "Destroy me": [
     {
-      "SoundId": "120716810144709",
+      "SoundId": "126719071231125",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -64,7 +64,7 @@
   ],
   "Aura Farming": [
     {
-      "SoundId": "95422153038709",
+      "SoundId": "76216658579392",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
