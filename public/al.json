@@ -36,14 +36,14 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "126719071231125",
+      "SoundId": "121529444612154",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
   ],
   "Pocoyo Dance": [
     {
-      "SoundId": "129618136727825",
+      "SoundId": "77514300023544",
       "LayerIndex": "1",
       "FullFileName": "Pocoyo.ogg"
     }
@@ -57,7 +57,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "113798489788364",
+      "SoundId": "85084327855923",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -85,14 +85,14 @@
   ],
   "Maps": [
     {
-      "SoundId": "122474774778917",
+      "SoundId": "134945800318442",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
   ],
   "Mystical Magical": [
     {
-      "SoundId": "129990746659848",
+      "SoundId": "137664653336413",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -113,7 +113,7 @@
   ],
   "Acelerada": [
     {
-      "SoundId": "126118219629686",
+      "SoundId": "75754168084164",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -155,7 +155,7 @@
   ],
   "Finally 18": [
     {
-      "SoundId": "118726940828376",
+      "SoundId": "91822845544582",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "90565132057093",
+      "SoundId": "107905045394451",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
