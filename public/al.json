@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "121529444612154",
+      "SoundId": "80413257297424",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "134945800318442",
+      "SoundId": "81114211272404",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
