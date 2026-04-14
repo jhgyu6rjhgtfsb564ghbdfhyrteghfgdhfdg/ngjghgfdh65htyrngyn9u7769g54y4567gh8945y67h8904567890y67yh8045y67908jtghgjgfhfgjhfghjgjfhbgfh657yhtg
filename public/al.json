@@ -8,7 +8,7 @@
   ],
   "ESTA NOCHE": [
     {
-      "SoundId": "95999229347485",
+      "SoundId": "93219490317252",
       "LayerIndex": "1",
       "FullFileName": "ESTANOCHE_1.ogg"
     }
@@ -43,7 +43,7 @@
   ],
   "Pocoyo Dance": [
     {
-      "SoundId": "77514300023544",
+      "SoundId": "84014268210708",
       "LayerIndex": "1",
       "FullFileName": "Pocoyo.ogg"
     }
@@ -57,7 +57,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "85084327855923",
+      "SoundId": "97786384538133",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -78,7 +78,7 @@
   ],
   "Just A Girl": [
     {
-      "SoundId": "109208314941488",
+      "SoundId": "87401957533688",
       "LayerIndex": "1",
       "FullFileName": "AGirl.ogg"
     }
@@ -106,7 +106,7 @@
   ],
   "Tuesday": [
     {
-      "SoundId": "130986354993119",
+      "SoundId": "88479530901669",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
@@ -134,14 +134,14 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "133322650206536",
+      "SoundId": "117936327279084",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
   ],
   "Big SZN": [
     {
-      "SoundId": "134945998122538",
+      "SoundId": "97890444212826",
       "LayerIndex": "1",
       "FullFileName": "BigSZN_Main.ogg"
     }
@@ -190,7 +190,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "115321136663311",
+      "SoundId": "114746137877047",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
