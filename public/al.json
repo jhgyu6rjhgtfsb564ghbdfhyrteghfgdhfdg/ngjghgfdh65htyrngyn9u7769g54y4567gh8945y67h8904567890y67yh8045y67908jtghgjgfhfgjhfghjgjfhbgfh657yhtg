@@ -99,7 +99,7 @@
   ],
   "Ribs": [
     {
-      "SoundId": "90417745237871",
+      "SoundId": "82421603496713",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
@@ -113,7 +113,7 @@
   ],
   "Acelerada": [
     {
-      "SoundId": "75754168084164",
+      "SoundId": "74798785656656",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -155,7 +155,7 @@
   ],
   "Finally 18": [
     {
-      "SoundId": "91822845544582",
+      "SoundId": "109837869693530",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
