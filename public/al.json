@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "71301190663475",
+      "SoundId": "85885466528019",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -64,7 +64,7 @@
   ],
   "Aura Farming": [
     {
-      "SoundId": "74756824158268",
+      "SoundId": "74277686192105",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
