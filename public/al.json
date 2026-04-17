@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "79701117913688",
+      "SoundId": "138740938103668",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "99939037103911",
+      "SoundId": "124726413990102",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "84815731542495",
+      "SoundId": "92215360500529",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -106,14 +106,14 @@
   ],
   "Tuesday": [
     {
-      "SoundId": "107525460972228",
+      "SoundId": "129943599754655",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
   ],
   "Acelerada": [
     {
-      "SoundId": "92301333513690",
+      "SoundId": "86654857872011",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -162,7 +162,7 @@
   ],
   "Like A Love Song": [
     {
-      "SoundId": "129272326064303",
+      "SoundId": "92826807916541",
       "LayerIndex": "1",
       "FullFileName": "Song_Main.ogg"
     }
