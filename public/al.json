@@ -43,7 +43,7 @@
   ],
   "Pocoyo Dance": [
     {
-      "SoundId": "99542109589711",
+      "SoundId": "108771875184827",
       "LayerIndex": "1",
       "FullFileName": "Pocoyo.ogg"
     }
@@ -57,14 +57,14 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "133403356470294",
+      "SoundId": "138454410209031",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
   ],
   "Aura Farming": [
     {
-      "SoundId": "104739951853920",
+      "SoundId": "140323299385919",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -85,21 +85,21 @@
   ],
   "Maps": [
     {
-      "SoundId": "92215360500529",
+      "SoundId": "80996555678940",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
   ],
   "Mystical Magical": [
     {
-      "SoundId": "139407461114749",
+      "SoundId": "74126638717158",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
   ],
   "Ribs": [
     {
-      "SoundId": "94130097249702",
+      "SoundId": "121602312778581",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
@@ -169,7 +169,7 @@
   ],
   "Flower": [
     {
-      "SoundId": "132972898140478",
+      "SoundId": "116202761185938",
       "LayerIndex": "1",
       "FullFileName": "Flower_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "111203389540411",
+      "SoundId": "135738575000191",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
