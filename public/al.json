@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "105760759227103",
+      "SoundId": "124302800291569",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -57,7 +57,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "138454410209031",
+      "SoundId": "115346338078680",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -78,7 +78,7 @@
   ],
   "Just A Girl": [
     {
-      "SoundId": "92634976751024",
+      "SoundId": "134441878910340",
       "LayerIndex": "1",
       "FullFileName": "AGirl.ogg"
     }
@@ -155,7 +155,7 @@
   ],
   "Finally 18": [
     {
-      "SoundId": "97711067549153",
+      "SoundId": "95461450790077",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
@@ -183,7 +183,7 @@
   ],
   "Golden": [
     {
-      "SoundId": "135738575000191",
+      "SoundId": "87422782715637",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
