@@ -8,7 +8,7 @@
   ],
   "ESTA NOCHE": [
     {
-      "SoundId": "94929597879129",
+      "SoundId": "111655043265543",
       "LayerIndex": "1",
       "FullFileName": "ESTANOCHE_1.ogg"
     }
@@ -36,14 +36,14 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "108138826503851",
+      "SoundId": "86082413246631",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
   ],
   "Pocoyo Dance": [
     {
-      "SoundId": "94780102803063",
+      "SoundId": "84323348818080",
       "LayerIndex": "1",
       "FullFileName": "Pocoyo.ogg"
     }
@@ -57,7 +57,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "130614465185486",
+      "SoundId": "84970163388135",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -92,7 +92,7 @@
   ],
   "Mystical Magical": [
     {
-      "SoundId": "71090998438817",
+      "SoundId": "78535001909106",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "131825819659888",
+      "SoundId": "127774662556692",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
@@ -190,7 +190,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "76283124844923",
+      "SoundId": "128253336538692",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
