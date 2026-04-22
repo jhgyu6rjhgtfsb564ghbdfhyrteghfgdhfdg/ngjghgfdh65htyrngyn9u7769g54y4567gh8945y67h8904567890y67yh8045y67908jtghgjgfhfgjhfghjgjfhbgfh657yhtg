@@ -106,7 +106,7 @@
   ],
   "Tuesday": [
     {
-      "SoundId": "101781180379337",
+      "SoundId": "79395460421641",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
@@ -183,14 +183,14 @@
   ],
   "Golden": [
     {
-      "SoundId": "91577131225571",
+      "SoundId": "93284701289187",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "128253336538692",
+      "SoundId": "124543837755186",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
