@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "79274888278744",
+      "SoundId": "132038552595142",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -92,7 +92,7 @@
   ],
   "Mystical Magical": [
     {
-      "SoundId": "78154861563394",
+      "SoundId": "135157100439144",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -113,7 +113,7 @@
   ],
   "Acelerada": [
     {
-      "SoundId": "80693687812207",
+      "SoundId": "86379578900959",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
