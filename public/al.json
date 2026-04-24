@@ -155,7 +155,7 @@
   ],
   "Finally 18": [
     {
-      "SoundId": "120936047477249",
+      "SoundId": "117961587850942",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
@@ -183,14 +183,14 @@
   ],
   "Golden": [
     {
-      "SoundId": "129766459045273",
+      "SoundId": "75133294393668",
       "LayerIndex": "1",
       "FullFileName": "Golden_1.ogg"
     }
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "109720696943735",
+      "SoundId": "88699404475573",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
