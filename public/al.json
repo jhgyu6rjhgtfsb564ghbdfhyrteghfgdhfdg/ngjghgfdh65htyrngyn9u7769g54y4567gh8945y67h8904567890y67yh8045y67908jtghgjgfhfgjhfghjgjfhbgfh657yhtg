@@ -85,14 +85,14 @@
   ],
   "Maps": [
     {
-      "SoundId": "119659788482956",
+      "SoundId": "105088182316879",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
   ],
   "Mystical Magical": [
     {
-      "SoundId": "136912062129449",
+      "SoundId": "79999580977600",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -106,7 +106,7 @@
   ],
   "Tuesday": [
     {
-      "SoundId": "114090015841692",
+      "SoundId": "96325265773432",
       "LayerIndex": "1",
       "FullFileName": "Tuesday.ogg"
     }
