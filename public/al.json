@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "85628707924558",
+      "SoundId": "122951231639100",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -64,7 +64,7 @@
   ],
   "Aura Farming": [
     {
-      "SoundId": "128341336728341",
+      "SoundId": "130472855613526",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -92,7 +92,7 @@
   ],
   "Mystical Magical": [
     {
-      "SoundId": "79999580977600",
+      "SoundId": "75489651449659",
       "LayerIndex": "1",
       "FullFileName": "Mystical.ogg"
     }
@@ -162,7 +162,7 @@
   ],
   "Like A Love Song": [
     {
-      "SoundId": "96155935513270",
+      "SoundId": "111793688681729",
       "LayerIndex": "1",
       "FullFileName": "Song_Main.ogg"
     }
@@ -190,7 +190,7 @@
   ],
   "What It Sounds Like": [
     {
-      "SoundId": "130111744784371",
+      "SoundId": "100705563193355",
       "LayerIndex": "1",
       "FullFileName": "Sound_Main.ogg"
     }
