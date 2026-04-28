@@ -64,7 +64,7 @@
   ],
   "Aura Farming": [
     {
-      "SoundId": "130472855613526",
+      "SoundId": "84048660462571",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "94502148226498",
+      "SoundId": "72048669484600",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -155,7 +155,7 @@
   ],
   "Finally 18": [
     {
-      "SoundId": "124441385780633",
+      "SoundId": "89317567388751",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
