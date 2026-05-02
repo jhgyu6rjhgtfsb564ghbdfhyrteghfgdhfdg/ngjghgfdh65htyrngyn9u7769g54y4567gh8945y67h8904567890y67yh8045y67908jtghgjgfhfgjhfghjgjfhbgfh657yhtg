@@ -64,7 +64,7 @@
   ],
   "Aura Farming": [
     {
-      "SoundId": "74417274090560",
+      "SoundId": "140029304841362",
       "LayerIndex": "1",
       "FullFileName": "Young.ogg"
     }
@@ -113,7 +113,7 @@
   ],
   "Acelerada": [
     {
-      "SoundId": "88254761047513",
+      "SoundId": "120352232908727",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -155,7 +155,7 @@
   ],
   "Finally 18": [
     {
-      "SoundId": "110574796421993",
+      "SoundId": "106213281639246",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
