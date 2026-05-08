@@ -1,14 +1,14 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "91703048524638",
+      "SoundId": "115613616841302",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
   ],
   "ESTA NOCHE": [
     {
-      "SoundId": "107156327406145",
+      "SoundId": "96338960372519",
       "LayerIndex": "1",
       "FullFileName": "ESTANOCHE_1.ogg"
     }
@@ -179,13 +179,6 @@
       "SoundId": "85133369305290",
       "LayerIndex": "1",
       "FullFileName": "2On_Main.ogg"
-    }
-  ],
-  "Golden": [
-    {
-      "SoundId": "75133294393668",
-      "LayerIndex": "1",
-      "FullFileName": "Golden_1.ogg"
     }
   ],
   "What It Sounds Like": [
