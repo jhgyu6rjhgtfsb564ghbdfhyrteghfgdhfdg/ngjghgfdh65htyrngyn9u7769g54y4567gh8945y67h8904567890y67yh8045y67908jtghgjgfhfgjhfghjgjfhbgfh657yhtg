@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "107700055520091",
+      "SoundId": "135324309246110",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "135014407100742",
+      "SoundId": "111717554237332",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
