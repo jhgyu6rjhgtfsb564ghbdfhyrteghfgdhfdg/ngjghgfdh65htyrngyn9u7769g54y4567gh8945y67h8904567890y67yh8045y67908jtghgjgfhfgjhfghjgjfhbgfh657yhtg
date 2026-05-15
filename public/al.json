@@ -57,7 +57,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "112960505701075",
+      "SoundId": "85191634042821",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -78,14 +78,14 @@
   ],
   "Just A Girl": [
     {
-      "SoundId": "99904567575980",
+      "SoundId": "124437800212252",
       "LayerIndex": "1",
       "FullFileName": "AGirl.ogg"
     }
   ],
   "Maps": [
     {
-      "SoundId": "125815144157448",
+      "SoundId": "130255068117966",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
