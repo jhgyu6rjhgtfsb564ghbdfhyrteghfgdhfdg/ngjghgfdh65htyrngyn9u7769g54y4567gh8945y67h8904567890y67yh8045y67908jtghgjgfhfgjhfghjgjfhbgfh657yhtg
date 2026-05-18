@@ -57,7 +57,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "106828488859226",
+      "SoundId": "72925724844050",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -71,7 +71,7 @@
   ],
   "AY MI GATITO": [
     {
-      "SoundId": "125051033378759",
+      "SoundId": "108389682732814",
       "LayerIndex": "1",
       "FullFileName": "Gatito.ogg"
     }
@@ -113,7 +113,7 @@
   ],
   "Acelerada": [
     {
-      "SoundId": "139838225287948",
+      "SoundId": "133406312288103",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "138978280684432",
+      "SoundId": "108179483466466",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
