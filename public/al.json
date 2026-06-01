@@ -57,7 +57,7 @@
   ],
   "Sunshine": [
     {
-      "SoundId": "136321886053627",
+      "SoundId": "127998025119133",
       "LayerIndex": "1",
       "FullFileName": "Sunshine.ogg"
     }
@@ -99,7 +99,7 @@
   ],
   "Ribs": [
     {
-      "SoundId": "80651281720275",
+      "SoundId": "83782139221247",
       "LayerIndex": "1",
       "FullFileName": "Ribs.ogg"
     }
@@ -113,7 +113,7 @@
   ],
   "Acelerada": [
     {
-      "SoundId": "114960122957433",
+      "SoundId": "86916965537331",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
