@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "111249494388134",
+      "SoundId": "134081315759554",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -71,7 +71,7 @@
   ],
   "AY MI GATITO": [
     {
-      "SoundId": "96618876106970",
+      "SoundId": "136124671849057",
       "LayerIndex": "1",
       "FullFileName": "Gatito.ogg"
     }
@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "115705711425078",
+      "SoundId": "113370270409237",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
