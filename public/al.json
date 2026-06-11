@@ -1,7 +1,7 @@
 {
   "Hear Me Now": [
     {
-      "SoundId": "135504918969094",
+      "SoundId": "76160496037528",
       "LayerIndex": "1",
       "FullFileName": "HearMe.ogg"
     }
@@ -113,7 +113,7 @@
   ],
   "Acelerada": [
     {
-      "SoundId": "135412242385942",
+      "SoundId": "71461456036689",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
