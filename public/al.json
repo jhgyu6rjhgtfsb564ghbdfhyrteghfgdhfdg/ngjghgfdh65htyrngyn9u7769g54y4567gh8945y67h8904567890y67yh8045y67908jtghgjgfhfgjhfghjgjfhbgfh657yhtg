@@ -36,7 +36,7 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "86082413246631",
+      "SoundId": "109399026169044",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
@@ -148,7 +148,7 @@
   ],
   "For the Picture": [
     {
-      "SoundId": "124403519961109",
+      "SoundId": "131164125933061",
       "LayerIndex": "1",
       "FullFileName": "For_Main.ogg"
     }
