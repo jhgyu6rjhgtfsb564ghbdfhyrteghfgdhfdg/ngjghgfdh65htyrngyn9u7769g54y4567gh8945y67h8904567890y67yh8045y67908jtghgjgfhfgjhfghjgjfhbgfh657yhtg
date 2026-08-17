@@ -36,14 +36,14 @@
   ],
   "Destroy me": [
     {
-      "SoundId": "117510262607382",
+      "SoundId": "89471535701089",
       "LayerIndex": "1",
       "FullFileName": "Destroy.ogg"
     }
   ],
   "Pocoyo Dance": [
     {
-      "SoundId": "88468366740389",
+      "SoundId": "82795949713037",
       "LayerIndex": "1",
       "FullFileName": "Pocoyo.ogg"
     }
