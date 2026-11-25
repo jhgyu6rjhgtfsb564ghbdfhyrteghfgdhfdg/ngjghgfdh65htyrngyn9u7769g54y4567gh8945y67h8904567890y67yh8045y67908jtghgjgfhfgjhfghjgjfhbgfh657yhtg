@@ -85,7 +85,7 @@
   ],
   "Maps": [
     {
-      "SoundId": "110130850261355",
+      "SoundId": "131468183896382",
       "LayerIndex": "1",
       "FullFileName": "Maps.ogg"
     }
@@ -113,7 +113,7 @@
   ],
   "Acelerada": [
     {
-      "SoundId": "99771720981497",
+      "SoundId": "77074044037450",
       "LayerIndex": "1",
       "FullFileName": "Acelerada_1.ogg"
     }
@@ -134,7 +134,7 @@
   ],
   "Tangled Up": [
     {
-      "SoundId": "126106238438708",
+      "SoundId": "128354180809567",
       "LayerIndex": "1",
       "FullFileName": "TangledUp_Main.ogg"
     }
@@ -155,7 +155,7 @@
   ],
   "Finally 18": [
     {
-      "SoundId": "137754317752412",
+      "SoundId": "117196721822652",
       "LayerIndex": "1",
       "FullFileName": "18_Main.ogg"
     }
